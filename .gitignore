@@ -1,3 +1,8 @@
+.vscode/
+
+# Downloaded papers
+papers/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
